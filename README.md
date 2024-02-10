@@ -37,6 +37,6 @@ Five Nights at Freddy's, 메이플스토리 게임들에게서 가져온 소스�
 
 ## 🛠️ 언어, 기술, 라이브러리 등
 
-C#
+C#, .NET Framework
 
 <br><br>
